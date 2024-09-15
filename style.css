@@ -1,0 +1,29 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+header{
+    background-color: yellow;
+}
+nav{
+    background-color: rgb(0, 0, 200);
+}
+main{
+    background-color: yellow;
+    font-size: larger;
+}
+footer{
+    background-color: yellowgreen;
+}
+li{
+    display: block;
+    width: 30px;
+}
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+}
+p{
+    line-height: normal;
+}
